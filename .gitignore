@@ -1,0 +1,16 @@
+# ملفات النظام (خاصة بـ exFAT)
+.DS_Store
+Thumbs.db
+System Volume Information/
+$RECYCLE.BIN/
+.Trash-*/
+
+# ملفات بايثون وجوبيتر المؤقتة
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ملفات سبايدر و VS Code
+.spyderproject/
+.spyproject/
+.vscode/
